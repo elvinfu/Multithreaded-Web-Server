@@ -1,5 +1,5 @@
 # Multithreaded-Web-Server
-My own implementation of a multithreaded web server called http333d. The server is designed to handle multiple client connections concurrently using a thread pool. It supports serving static files and performing search functionality.
+Implementation of my own multithreaded web server called http333d. The server is designed to handle multiple client connections concurrently using a thread pool. It supports serving static files and performing search functionality.
 
 ## Usage
 To compile the web server, run the following command:
